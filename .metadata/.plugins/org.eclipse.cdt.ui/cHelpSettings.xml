@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cHelpSettings>
+                                                
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <project name="blink">
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <provider id="org.eclipse.cdt.ui.provider1"/>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <provider id="org.eclipse.linuxtools.cdt.libhover.provider"/>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </project>
+                                            
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    <project name="DemoUART">
+                        
+        
+        <provider id="org.eclipse.cdt.ui.provider1"/>
+                        
+        
+        <provider id="org.eclipse.linuxtools.cdt.libhover.provider"/>
+                    
+    
+    </project>
+                                
+
+
+    
+    
+    
+    
+    
+    <project name="Uart_RGB_Blink">
+                                
+        
+        
+        <provider id="org.eclipse.cdt.ui.provider1"/>
+                                
+        
+        
+        <provider id="org.eclipse.linuxtools.cdt.libhover.provider"/>
+                            
+    
+    
+    </project>
+                    
+
+
+
+    
+    <project name="Uart_Temp_KFC">
+        <provider id="org.eclipse.cdt.ui.provider1"/>
+        <provider id="org.eclipse.linuxtools.cdt.libhover.provider"/>
+    </project>
+    
+</cHelpSettings>
